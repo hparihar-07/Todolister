@@ -6,7 +6,7 @@
  
 ## Author
 
-- [@Parihar07](https://www.github.com/Lord-x7)
+- [@Parihar07](https://www.github.com/hparihar-07)
 
 
 # Deploying Soon
