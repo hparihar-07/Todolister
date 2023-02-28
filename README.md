@@ -9,4 +9,3 @@
 - [@Parihar07](https://www.github.com/hparihar-07)
 
 
-# Deploying Soon
